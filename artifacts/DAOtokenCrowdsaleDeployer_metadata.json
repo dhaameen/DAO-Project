@@ -79,10 +79,10 @@
 	},
 	"sources": {
 		"DAOtoken.sol": {
-			"keccak256": "0xc8464b5ef827789a047259aaef92689fec564998f03a8371dd151c17cb037d81",
+			"keccak256": "0xfcaed81d912c161081793601f9699765e4c4e7f86da043378a9111f7997dd904",
 			"urls": [
-				"bzz-raw://61b6de4d46572dac467e7d5a100a3436d03917d8ad31a702684e9c460132ff27",
-				"dweb:/ipfs/QmQw2TNfpaWinK7pdeQcdk6r4xsEV8LY1mN8kwko3rpByX"
+				"bzz-raw://6aa6dd4fab0b7da76512bee6ab52b8f0ecd9642dfe8162f4db6e6537f9b879db",
+				"dweb:/ipfs/Qmb2sDEZ94G1KUH8NNrbcsMkSzmtpuFvxGdbquserV8wJH"
 			]
 		},
 		"DAOtoken_crowdsale.sol": {
