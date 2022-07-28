@@ -1,17 +1,15 @@
 //Voting token contract for the DAO proposals
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.4;
+pragma solidity ^0.8.2;
 
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Votes.sol";
 
-contract DAOtoken is ERC20, ERC20Permit, ERC20Votes {
-    constructor() ERC20("DAOtoken", "DAO") ERC20Permit("DAOtoken") {
-        _mint(msg.sender, 1000 * 10 ** decimals());
-    }
+contract MyToken is ERC20, ERC20Permit, ERC20Votes {
+    constructor() ERC20("DAOtoken", "DAO") ERC20Permit("DAOtoken") {}
 
-    // The following functions are overrides required by Solidity.
+    // The functions below are overrides required by Solidity.
 
     function _afterTokenTransfer(address from, address to, uint256 amount)
         internal
