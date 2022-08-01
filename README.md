@@ -1,5 +1,5 @@
 # DAO-Project
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/DAO.jpeg)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/DAO.jpeg)
 
 ## Table of Contents
 - [Summary](#summary)
@@ -22,7 +22,7 @@
 
 ### DAO Purpose
 
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/mind_image.jpeg)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/mind_image.jpeg)
 
 We decided to create a DAO with a community focus on Mental Health and Wellbeing.
 
@@ -100,24 +100,24 @@ From there you can interact with the app.
 ### CORE
 [CORE](https://github.com/dhaameen/DAO-Project/blob/main/contracts/CORE.sol) is the BASE contract that will be governed by the Governance_token. This contract will be owned by the DAO.
 
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/core.png)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/core.png)
 
 ### DAO Token
 [DAO token](https://github.com/dhaameen/DAO-Project/blob/main/contracts/DAOtoken.sol) is the voting token contract for the DAO proposals.
 
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/dao_token.png)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/dao_token.png)
 
 ### Governance Contract
 [Governance Contract](https://github.com/dhaameen/DAO-Project/blob/main/contracts/GovernanceContract.sol) sets up the governance rules associated with voting including the voting period and the required quorum.
 
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/governance1.png)
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/governance2.png)
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/governance3.png)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/governance1.png)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/governance2.png)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/governance3.png)
 
 ### Timelock Contract
 The [timelock contract](https://github.com/dhaameen/DAO-Project/blob/main/contracts/Timelock.sol) will execute proposals. It holds any funds, ownership, and access control roles.
 
-![alt=“”](https://github.com/dhaameen/DAO-Project/Images/timelock.png)
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/timelock.png)
 
 ## dApps
 ### Tokens
