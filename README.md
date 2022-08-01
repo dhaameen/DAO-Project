@@ -120,6 +120,26 @@ The [timelock contract](https://github.com/dhaameen/DAO-Project/blob/main/contra
 ![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/timelock.png)
 
 ## dApps
-### Tokens
+Multipage streamlit app consisting of 3 pages/individual dapps:
+* Home page
+    * mint native tokens for ethereum
+* Proposals
+    * form to submit proposals to te DAO
+* Vote
+    * Form to vote on submitted proposals
+    * Need to verify your wallet address to ensure you are e member of the DAO
+***
+## References/Inspiration
+* https://github.com/blockchainsllc/DAO
+* https://github.com/f-o-a-m/parking-dao
+* https://thesciencedao.io/science-connect
+* https://github.com/chirathlv/Churn-Prediction-App
+* https://github.com/karangorania/multi-token-DAO
+* https://betterprogramming.pub/how-to-code-an-on-chain-dao-e525e13a57be
+* https://towardsdatascience.com/deploy-a-public-streamlit-web-app-for-free-heres-how-bf56d46b2abe
+* https://github.com/jenrionda/music-on-the-blockchain
+* https://github.com/Rwbrandt/Blockchain_Ballots
 
-### Vote on a Proposal
+
+
+
