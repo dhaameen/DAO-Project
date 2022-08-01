@@ -42,6 +42,8 @@ Members of our DAO can be rewarded for:
 
 For more details of our DAO's purpose see our [marketing strategy](https://github.com/dhaameen/DAO-Project/blob/main/marketing.md).
 
+See also a presentation about our DAO [here](https://github.com/dhaameen/DAO-Project/blob/main/Project%203%20Presentation%20-%20Group%205.pdf).
+
 ### DAO Components
 
 Our DAO includes smart contracts for the following:
@@ -120,6 +122,13 @@ The [timelock contract](https://github.com/dhaameen/DAO-Project/blob/main/contra
 ![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/timelock.png)
 
 ## dApps
+See images of our dApp front end below.
+
 ### Tokens
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/app_tokens.png)
+
+### Submit a Proposal
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/app_proposal.png)
 
 ### Vote on a Proposal
+![alt=“”](https://github.com/dhaameen/DAO-Project/blob/main/images/app_vote.png)
