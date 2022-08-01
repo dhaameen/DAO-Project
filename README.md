@@ -40,7 +40,7 @@ Members of our DAO can be rewarded for:
 - starting a successful crowdfunding campaign
 - bringing in new members
 
-For more details of our DAO's purpose see our [marketing strategy](https://github.com/dhaameen/DAO-Project/marketing.md).
+For more details of our DAO's purpose see our [marketing strategy](https://github.com/dhaameen/DAO-Project/blob/main/marketing.md).
 
 ### DAO Components
 
